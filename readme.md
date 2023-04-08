@@ -3,7 +3,30 @@
 This is End-to-End data project, we will start from building the data source and ending up with thr dashboarding and deploy ML model. 
 
 In this project we are trying to buid this simple data pipeline.
-
+``` bash
+.
+├── Data
+│   ├── Data Spliter.py
+│   ├── inserting.sql
+│   ├── SQL generator.py
+│   ├── supermarket-database.csv
+│   ├── supermarket-data.csv
+│   └── supermarket_sales - data.csv
+├── ETL Process
+│   ├── ETL-script.sh
+│   ├── extract.sql
+│   ├── load.hql
+│   ├── staging.sql
+│   ├── supermarketHiveDB.hql
+│   ├── supermarket.sql
+│   └── transform.sql
+├── modelling
+│   ├── 3fn.jpg
+│   ├── DWR model.jpg
+│   ├── pipeline.jpg
+│   └── Untitled Diagram.drawio
+└── readme.md
+```
 ![pipeline](https://user-images.githubusercontent.com/95311883/216856407-35c87013-7443-43fc-b086-8c3d8bd3a6b7.jpg)
 
 ### The 3NF model in the Postgresql database
