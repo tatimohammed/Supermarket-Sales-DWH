@@ -1,8 +1,6 @@
 # Supermarket Sales - Data Warehouse project
 ## Project Description
 This is End-to-End data project, we will start from building the data source and ending up with thr dashboarding and deploy ML model. 
-
-In this project we are trying to buid this simple data pipeline.
 ``` bash
 .
 ├── Data
@@ -27,6 +25,8 @@ In this project we are trying to buid this simple data pipeline.
 │   └── Untitled Diagram.drawio
 └── readme.md
 ```
+In this project we are trying to buid this simple data pipeline.
+
 ![pipeline](https://user-images.githubusercontent.com/95311883/216856407-35c87013-7443-43fc-b086-8c3d8bd3a6b7.jpg)
 
 ### The 3NF model in the Postgresql database
